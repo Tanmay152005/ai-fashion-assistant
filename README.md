@@ -1,5 +1,8 @@
 AI Fashion Assistant Made using Google AI Studio
-
+DEMO: 
+![Home Page](screenshots/homepage.png)
+![Chatbot](screenshots/chatbot1.png)
+![Chatbot](screenshots/chatbot2.png)
 **Prerequisites:**  Node.js
 
 1. Install dependencies:
