@@ -1,0 +1,7 @@
+{
+  "name": "LumiStyle AI Fashion Hub",
+  "description": "A high-end fashion e-commerce platform featuring an AI-powered stylist that analyzes user photos and messages to recommend real products from the catalog.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
